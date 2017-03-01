@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="788f22345b2a8d14044108b775a4ed83c9b77b8a">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66bf4053a575a0ba1b8bade0f712e5ea5bf1a15d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2d1bd6e7a1d7de67955898ca85ba7ee9aaea37e1">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0382bc9cfe2ce1d1a81dc936d965671c469eedf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_1365a3bf3eb1e0f89903edc210c682c00d570238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_1228a6cc57a19d53c479950dd5e2b97d1ad1cf66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_6f83bd3543bfe09d41c6edef1e9e606685542063/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_d7837881b6f28c796feb2e7742be0c56dc45079a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/phoebe.kalatzi/Downloads/Old Napier Assignments/Help!I&apos;m_lost - Old Mobile Application Assessment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_2772151f5bfe1d4c63f5e5fb396ad34b1445d252/classes.dex" />
+    </item>
+
+</items>

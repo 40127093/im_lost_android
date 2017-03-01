@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Βοήθεια! Χάθηκα </string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="exit_text">Έξοδος</string>
+    <string name="my_info">Οι πληροφορίες μου</string>
+    <string name="emergency_call">Επείγουσα Κλήση</string>
+    <string name="help">Βοήθεια</string>
+    <string name="find_my_location">Βρες την τοποθεσία μου</string>
+    <string name="title_activity_make_acall">ΚΑΝΕ ΤΗΝ ΚΛΗΣΗ</string>
+    <string name="goback">ΠΗΓΑΙΝΕ ΠΙΣΩ</string>
+    <string name="fullname">Ονοματεπώνυμο</string>
+    <string name="age">Ηλικία</string>
+    <string name="address">Διεύθυνση</string>
+    <string name="emergencycontact">Επαφή Εκτάκτου Ανάγκης</string>
+    <string name="title_activity_personal__information">ΠΡΟΣΩΠΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ</string>
+    <string name="title_activity_maps">ΧΑΡΤΗΣ</string>
+
+
+</resources>
